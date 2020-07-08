@@ -1,0 +1,75 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  margin: 0;
+}
+
+
+.main-home {
+  background-color: #f0fff0;
+}
+
+
+.nav-link {
+  color: #000;
+}
+
+
+.logo-img {
+  height: 50px;
+}
+
+.home-img {
+  height: 350px;
+}
+
+.btn {
+  background-color: #21b573;
+  padding: 8px 26px;
+}
+
+.text-orange {
+  color: #fd511a;
+}
+
+h1 {
+  font-size: 48px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 70px;
+}
+
+.text-green {
+  color: #21b573;
+}
+
+.menu-down {
+  box-shadow: 5px;
+}
+
+.images-up {
+  height: 85px;
+}
+
+.card-icon {
+  height: 25px;
+}
+
+.shadow {
+  background-color: #f4f4f4;
+}
+
+.shadow:hover {
+  background-color: #ffffff;
+}
+
+.testimonial-img {
+  height: 125px;
+  position: absolute;
+  margin-top: 0;
+  margin-left: 0;
+  padding-left: 140px;
+}
+
+.blogs {
+  background-color: #21b573;
+}
